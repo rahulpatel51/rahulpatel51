@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Rahul Patel
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahulpatel51)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome)]([https://your-portfolio-link.com](https://portfolio-git-main-rahul-patels-projects-dc68615d.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/rahulpatel51](https://www.linkedin.com/in/rahul-patel231/))
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:ra.rahul11131@gmail.com)
 
 ## 🚀 About Me
 
