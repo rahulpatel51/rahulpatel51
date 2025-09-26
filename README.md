@@ -73,12 +73,14 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpatel51&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel51&layout=compact&theme=radical)
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-patel231/)
-- 🌐 [Portfolio](https://portfolio-git-main-rahul-patels-projects-dc68615d.vercel.app/)
-- 📧 [Email](mailto:ra.rahul11131@gmail.com)
-- 🐦 [Twitter](https://x.com/RahulSingh77687) 
+| Platform | Link |
+|----------|------|
+| **💼 LinkedIn** | [Rahul Patel](https://www.linkedin.com/in/rahul-patel231/) |
+| **🌐 Portfolio** | [portfolio-git-main-rahul-patels-projects-dc68615d.vercel.app](https://portfolio-git-main-rahul-patels-projects-dc68615d.vercel.app/) |
+| **📧 Email** | [ra.rahul11131@gmail.com](mailto:ra.rahul11131@gmail.com) |
+| **🐦 Twitter** | [@RahulSingh77687](https://x.com/RahulSingh77687) |
 
 ---
 
