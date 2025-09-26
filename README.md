@@ -24,36 +24,41 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ### 🎨 Personal Portfolio
 ![Portfolio Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Page1.png)
-- **Technologies**: HTML, CSS, JavaScript
-- A responsive portfolio website showcasing my projects and skills
-- [Live Demo](https://your-portfolio-link.com)
+- **Technologies:** HTML, CSS, JavaScript
+- **Description:** A responsive portfolio website showcasing my projects and skills with modern UI/UX design
+- **Live Demo:** [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-10B981?style=flat&logo=vercel)](https://your-portfolio-link.com)
 
+---
 
 ### 🏠 Hostel Management System (Full-Stack)
-#### Admin Frontend
-![Hostel Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Admin.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
-- Administration panel for managing hostel bookings and residents
-- [Live Demo](https://hostel-admin-frontend.vercel.app/)
 
-#### Booking Frontend
+#### 🔧 Admin Frontend
+![Hostel Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Admin.png)
+- **Technologies:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
+- **Description:** Comprehensive administration panel for managing hostel bookings, residents, rooms, and payments
+- **Live Demo:** [![Admin Demo](https://img.shields.io/badge/Admin_Panel-Live-0EA5E9?style=flat&logo=vercel)](https://hostel-admin-frontend.vercel.app/)
+
+#### 📖 Booking Frontend
 ![Hostel Booking Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Booking.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
-- User interface for browsing and booking hostel rooms
-- [![Live Demo](https://img.shields.io/badge/Live_Demo-Hostel_Booking_App-10B981?style=for-the-badge&logo=vercel)](https://hostel-booking-frontend-phi.vercel.app/)
+- **Technologies:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
+- **Description:** User-friendly interface for browsing available hostel rooms, booking, and payment processing
+- **Live Demo:** [![Booking Demo](https://img.shields.io/badge/Booking_Portal-Live-10B981?style=flat&logo=vercel)](https://hostel-booking-frontend-phi.vercel.app/)
+
+---
 
 ### 🍕 Food Delivery System (Full-Stack)
-#### Admin Panel
-![Food Delivery Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Food%20Delivery%20Admin.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary, Twilio 
-- Admin interface for managing restaurants, menus, and orders
-- [Live Demo](https://food-delivery-admin-steel.vercel.app/auth/login)
 
-#### User Application
+#### 🛠️ Admin Panel
+![Food Delivery Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Food%20Delivery%20Admin.png)
+- **Technologies:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary, Twilio
+- **Description:** Complete admin interface for managing restaurants, menus, orders, and real-time notifications
+- **Live Demo:** [![Admin Demo](https://img.shields.io/badge/Admin_Panel-Live-0EA5E9?style=flat&logo=vercel)](https://food-delivery-admin-steel.vercel.app/auth/login)
+
+#### 👥 User Application
 ![Food Delivery User Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Food%20Delivery%20User.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary, Twilio 
-- Customer-facing application for browsing restaurants and placing orders
-- [Live Demo](https://food-delivery-user-gold.vercel.app/)
+- **Technologies:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary, Twilio
+- **Description:** Customer application for browsing restaurants, placing orders, and real-time order tracking
+- **Live Demo:** [![User App](https://img.shields.io/badge/User_App-Live-10B981?style=flat&logo=vercel)](https://food-delivery-user-gold.vercel.app/)
 
 
 ## 📊 GitHub Stats & Tech Badges
