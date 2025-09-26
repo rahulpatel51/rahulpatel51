@@ -40,7 +40,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ![Hostel Booking Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Booking.png)
 - **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
 - User interface for browsing and booking hostel rooms
-- [Live Demo](https://hostel-booking-frontend-phi.vercel.app/)
+- [![Live Demo](https://img.shields.io/badge/Live_Demo-Hostel_Booking_App-10B981?style=for-the-badge&logo=vercel)](https://hostel-booking-frontend-phi.vercel.app/)
 
 ### 🍕 Food Delivery System (Full-Stack)
 #### Admin Panel
