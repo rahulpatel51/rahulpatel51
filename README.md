@@ -23,36 +23,38 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ## 📌 Pinned Projects
 
 ### 🎨 Personal Portfolio
-![Portfolio Preview](https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Portfolio+Preview)
+![Portfolio Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Page1.png)
 - **Technologies**: HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 - A responsive portfolio website showcasing my projects and skills
 - [Live Demo](https://your-portfolio-link.com)
 
-### 🍕 Food Delivery System (Full-Stack)
-#### Admin Panel
-![Food Delivery Admin Preview](https://via.placeholder.com/400x200/50C878/FFFFFF?text=Food+Delivery+Admin)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS
-- Admin interface for managing restaurants, menus, and orders
-- [Live Demo](https://food-delivery-admin-demo-link.com)
 
-#### User Application
-![Food Delivery User Preview](https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Food+Delivery+User)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
-- Customer-facing application for browsing restaurants and placing orders
-- [Live Demo](https://food-delivery-user-demo-link.com)
-
-### 🏠 Hostel Management System
+### 🏠 Hostel Management System (Full-Stack)
 #### Admin Frontend
-![Hostel Admin Preview](https://via.placeholder.com/400x200/9B59B6/FFFFFF?text=Hostel+Admin)
+![Hostel Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Admin.png)
 - **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 - Administration panel for managing hostel bookings and residents
-- [Live Demo](https://hostel-admin-demo-link.com)
+- [Live Demo](https://hostel-admin-frontend.vercel.app/)
 
 #### Booking Frontend
-![Hostel Booking Preview](https://via.placeholder.com/400x200/3498DB/FFFFFF?text=Hostel+Booking)
+![Hostel Booking Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Booking.png)
 - **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 - User interface for browsing and booking hostel rooms
-- [Live Demo](https://hostel-booking-demo-link.com)
+- [Live Demo](https://hostel-booking-frontend-phi.vercel.app/)
+
+### 🍕 Food Delivery System (Full-Stack)
+#### Admin Panel
+![Food Delivery Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Food%20Delivery%20Admin.png)
+- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS
+- Admin interface for managing restaurants, menus, and orders
+- [Live Demo](https://food-delivery-admin-steel.vercel.app/auth/login)
+
+#### User Application
+![Food Delivery User Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Food%20Delivery%20User.png)
+- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+- Customer-facing application for browsing restaurants and placing orders
+- [Live Demo](https://food-delivery-user-gold.vercel.app/)
+
 
 ## 📊 GitHub Stats & Tech Badges
 
@@ -73,10 +75,10 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/rahulpatel51)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 [Email](mailto:your.email@domain.com)
-- 🐦 [Twitter](https://twitter.com/rahulpatel51) (optional)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-patel231/)
+- 🌐 [Portfolio](https://portfolio-git-main-rahul-patels-projects-dc68615d.vercel.app/)
+- 📧 [Email](mailto:ra.rahul11131@gmail.com)
+- 🐦 [Twitter](https://x.com/RahulSingh77687) 
 
 ---
 
