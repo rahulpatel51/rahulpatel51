@@ -1,7 +1,7 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Rahul Patel
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rahulpatel51)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
 
 ## 🚀 About Me
@@ -23,53 +23,46 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ![Portfolio Preview](https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Portfolio+Preview)
 - **Technologies**: HTML, CSS, JavaScript
 - A responsive portfolio website showcasing my projects and skills
-- [Live Demo](https://your-portfolio-link.com) | [Source Code](https://github.com/yourusername/Portfolio)
+- [Live Demo](https://your-portfolio-link.com)
 
 ### 🍕 Food Delivery System (Full-Stack)
 #### Admin Panel
 ![Food Delivery Admin Preview](https://via.placeholder.com/400x200/50C878/FFFFFF?text=Food+Delivery+Admin)
 - **Technologies**: TypeScript, React, Node.js
 - Admin interface for managing restaurants, menus, and orders
-- [Source Code](https://github.com/yourusername/Food-Delivery-Admin)
+- [Live Demo](https://food-delivery-admin-demo-link.com)
 
 #### User Application
 ![Food Delivery User Preview](https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Food+Delivery+User)
 - **Technologies**: TypeScript, React
 - Customer-facing application for browsing restaurants and placing orders
-- [Source Code](https://github.com/yourusername/Food-Delivery-User)
-
-#### Backend API
-![Backend API Preview](https://via.placeholder.com/400x200/F7DC6F/000000?text=Backend+API)
-- **Technologies**: JavaScript, Node.js, Express, MongoDB
-- RESTful API supporting the food delivery platform
-- [Source Code](https://github.com/yourusername/Food-Delivery-Backend)
+- [Live Demo](https://food-delivery-user-demo-link.com)
 
 ### 🏠 Hostel Management System
 #### Admin Frontend
 ![Hostel Admin Preview](https://via.placeholder.com/400x200/9B59B6/FFFFFF?text=Hostel+Admin)
 - **Technologies**: TypeScript, React
 - Administration panel for managing hostel bookings and residents
-- [Source Code](https://github.com/yourusername/Hostel-Admin-Frontend)
+- [Live Demo](https://hostel-admin-demo-link.com)
 
 #### Booking Frontend
 ![Hostel Booking Preview](https://via.placeholder.com/400x200/3498DB/FFFFFF?text=Hostel+Booking)
 - **Technologies**: TypeScript, React
 - User interface for browsing and booking hostel rooms
-- [Source Code](https://github.com/yourusername/Hostel-Booking-Frontend)
+- [Live Demo](https://hostel-booking-demo-link.com)
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpatel51&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel51&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://linkedin.com/in/rahulpatel51)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 📧 [Email](mailto:your.email@domain.com)
-- 🐦 [Twitter](https://twitter.com/yourusername) (optional)
+- 🐦 [Twitter](https://twitter.com/rahulpatel51) (optional)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Rahul Patel](https://github.com/rahulpatel51)
