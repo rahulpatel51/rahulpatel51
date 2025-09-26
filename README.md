@@ -24,7 +24,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ### 🎨 Personal Portfolio
 ![Portfolio Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Page1.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, Tailwind CSS
+- **Technologies**: HTML, CSS, JavaScript
 - A responsive portfolio website showcasing my projects and skills
 - [Live Demo](https://your-portfolio-link.com)
 
@@ -32,26 +32,26 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ### 🏠 Hostel Management System (Full-Stack)
 #### Admin Frontend
 ![Hostel Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Admin.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
 - Administration panel for managing hostel bookings and residents
 - [Live Demo](https://hostel-admin-frontend.vercel.app/)
 
 #### Booking Frontend
 ![Hostel Booking Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Booking.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
 - User interface for browsing and booking hostel rooms
 - [Live Demo](https://hostel-booking-frontend-phi.vercel.app/)
 
 ### 🍕 Food Delivery System (Full-Stack)
 #### Admin Panel
 ![Food Delivery Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Food%20Delivery%20Admin.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS
+- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary, Twilio 
 - Admin interface for managing restaurants, menus, and orders
 - [Live Demo](https://food-delivery-admin-steel.vercel.app/auth/login)
 
 #### User Application
 ![Food Delivery User Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Food%20Delivery%20User.png)
-- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+- **Technologies**: HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary, Twilio 
 - Customer-facing application for browsing restaurants and placing orders
 - [Live Demo](https://food-delivery-user-gold.vercel.app/)
 
