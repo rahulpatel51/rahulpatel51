@@ -36,7 +36,8 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ![Hostel Admin Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Admin.png)
 - **Technologies:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS, Cloudinary
 - **Description:** Administration panel for managing hostel bookings and residents
-- **Live Demo:** [![Live Demo](https://img.shields.io/badge/Live_Demo-Admin_Panel-0EA5E9?style=for-the-badge&logo=vercel)](https://hostel-admin-frontend.vercel.app/)
+- **Live Demo:**
+                 [![Live Demo](https://img.shields.io/badge/Live_Demo-Admin_Panel-0EA5E9?style=for-the-badge&logo=vercel)](https://hostel-admin-frontend.vercel.app/)
 
 #### 📖 Booking Frontend
 ![Hostel Booking Preview](https://github.com/rahulpatel51/rahulpatel51/blob/main/Hostel%20Booking.png)
