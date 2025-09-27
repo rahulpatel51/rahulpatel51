@@ -77,7 +77,6 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 
 ### 📈 GitHub Stats
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulpatel51&show_icons=true&theme=radical&hide=prs&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatel51&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
